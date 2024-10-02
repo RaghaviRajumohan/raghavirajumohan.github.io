@@ -1,63 +1,36 @@
-title: Raghavi Rajumohan # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > 
-  I love uncovering insights from data and turning those stories into actionable insights. 
-  <br><br>
-  My professional journey spans several roles where I have used data science, analytics, and mentorship to create impact. Here is an overview of my experiences:
+title: "Raghavi Rajumohan"
+logo: "/images/logo.png?raw=true"  # Your photo (or logo) here
+description: >
+  I love uncovering insights from data and turning those stories into actionable insights.
   <br><br>
 
-  <!-- Timeline Start -->
-  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;">
-
-    <!-- Experience 1 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Jul 2024 - Present
-      </div>
-      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Data Metrics Analyst Intern - University of California, Office of the President</h3>
-        <p>Developing a SQL-automated Tableau dashboard to monitor tax forms and paycheck issuance. Applied ARIMA models for time series forecasting to optimize employee allocation.</p>
-      </div>
-    </div>
-
-    <!-- Experience 2 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Jan 2024 - May 2024
-      </div>
-      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Data Analyst and Project Mentor - UCLA Alumni Affairs</h3>
-        <p>Led efforts to optimize alumni outreach using SEO, A/B testing, and machine learning models. Increased engagement by 33% through data-driven techniques.</p>
-      </div>
-    </div>
-
-    <!-- Experience 3 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Sep 2020 - Jul 2023
-      </div>
-      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Data Analysis General Manager - WageIndicator Foundation Research Lab</h3>
-        <p>Led a team of 200+ interns and managed ETL processes for salary guides across 6+ countries. Improved data collection accuracy by 15% through streamlined processes.</p>
-      </div>
-    </div>
-
-    <!-- Experience 4 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        May 2021 - Jul 2022
-      </div>
-      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Business Development Intern - TATA Electronics Pvt. Ltd.</h3>
-        <p>Developed research proposals to assess vocational skills of Indian women and formulated data-driven CSR policies to improve community standards of living.</p>
-      </div>
-    </div>
-
-  </div>
-  <!-- Timeline End -->
+  <!-- Experiences Section -->
+  <strong>Experiences:</strong>
+  <ul style="list-style-type: disc; padding-left: 20px; max-width: 800px; margin: 0 auto;">
+    <li><strong>Jul 2024 - Present</strong> Data Metrics Analyst Intern - University of California, Office of the President</li>
+    <li><strong>Jan 2024 - May 2024</strong> Data Analyst and Project Mentor - UCLA Alumni Affairs</li>
+    <li><strong>Sep 2020 - Jul 2023</strong> Data Analysis General Manager - WageIndicator Foundation Research Lab</li>
+    <li><strong>May 2021 - Jul 2022</strong> Business Development Intern - TATA Electronics Pvt. Ltd.</li>
+  </ul>
   <br><br>
-  <a href="https://www.linkedin.com/in/raghavirajumohan/">View My LinkedIn Profile</a>
+
+  <!-- Social Links Section -->
+  <strong>Connect with Me:</strong>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>
+      <a href="https://www.linkedin.com/in/raghavirajumohan/" style="color:#6a0dad;">
+        <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
+        LinkedIn
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/RaghaviRajumohan" style="color:#6a0dad;">
+        <img src="images/Github_icon.png" alt="GitHub" style="width:50px;height:40px;margin-right:5px;">
+        GitHub
+      </a>
+    </li>
+  </ul>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
