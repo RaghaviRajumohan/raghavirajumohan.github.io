@@ -1,6 +1,12 @@
 title: Raghavi Rajumohan
-#logo: 
-#description: 
-#show downloads: true
+logo: images/Raghavi.jpg
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description
+  <br><br>
+  Second description
+  <br><br>
+  <a href="https://www.linkedin.com/in/raghavi-rajumohan/">View My LinkedIn Profile</a>
+  <a href="https://github.com/RaghaviRajumohan</a>
+
 theme: jekyll-theme-minimal
 
