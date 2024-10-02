@@ -1,11 +1,14 @@
-title: "Raghavi Rajumohan"
-logo: "Raghavi.jpg"  # Your logo image here
-description: "I love uncovering insights from data and turning those stories into actionable insights."
+title: Raghavi Rajumohan # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > 
+  I love uncovering insights from data and turning those stories into actionable insights. 
+  <br><br>
+  My professional journey spans several roles where I have used data science, analytics, and mentorship to create impact. Here is an overview of my experiences:
+  <br><br>
 
-# Experience Section in HTML Format
-experiences: > 
+  <!-- Timeline Start -->
   <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;">
-    
+
     <!-- Experience 1 -->
     <div style="padding: 10px 0; position: relative;">
       <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
@@ -51,20 +54,10 @@ experiences: >
     </div>
 
   </div>
-
-# Social Links Section
-social_links: > 
-  <a href="https://www.linkedin.com/in/raghavirajumohan/" target="_blank" style="color:#6a0dad;">
-    <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
-    View My LinkedIn
-  </a>
+  <!-- Timeline End -->
   <br><br>
-  <a href="https://github.com/RaghaviRajumohan" target="_blank" style="color:#6a0dad;">
-    <img src="images/Github_icon.png" alt="GitHub" style="width:50px;height:40px;margin-right:5px;">
-    Visit My GitHub
-  </a>
+  <a href="https://www.linkedin.com/in/raghavirajumohan/">View My LinkedIn Profile</a>
 
-# Theme settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
