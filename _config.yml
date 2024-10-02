@@ -3,18 +3,27 @@ logo: "images/logo.png"  # Add your logo image here
 description: "I love uncovering insights from data and turning those stories into actionable insights."
 
 experiences:
-  - date: "Sep 2024 - Present"
-    title: "Founder & Mentor - Data Gals Initiative"
-    description: "Leading a community of women in data science, fostering growth and mentoring aspiring data scientists."
+  - date: "Jul 2024 - Present"
+    title: "Data Metrics Analyst Intern - University of California, Office of the President"
+    description: "Developing a SQL-automated Tableau dashboard to monitor tax forms and paycheck issuance. Applied ARIMA models for time series forecasting to optimize employee allocation."
 
-  - date: "Jun 2024 - Present"
-    title: "Data Science Intern - Real Estate Practice, ABGi USA"
-    description: "Conducting market analysis using data-driven techniques to identify trends in real estate investments."
+  - date: "Jan 2024 - May 2024"
+    title: "Data Analyst and Project Mentor - UCLA Alumni Affairs"
+    description: "Led efforts to optimize alumni outreach using SEO, A/B testing, and machine learning models. Increased engagement by 33% through data-driven techniques."
 
-  - date: "Jan 2024 - Mar 2024"
-    title: "Quantitative Analyst - Optimas Capital"
-    description: "Analyzed financial datasets and developed models to assist in high-stakes financial decision-making."
+  - date: "Sep 2020 - Jul 2023"
+    title: "Data Analysis General Manager - WageIndicator Foundation Research Lab"
+    description: "Led a team of 200+ interns and managed ETL processes for salary guides across 6+ countries. Improved data collection accuracy by 15% through streamlined processes."
 
-  - date: "Aug 2023 - Sep 2023"
-    title: "Data Analyst - Equity Methods LLC"
-    description: "Worked with equity valuation models, providing actionable insights on company performance metrics."
+  - date: "May 2021 - Jul 2022"
+    title: "Business Development Intern - TATA Electronics Pvt. Ltd."
+    description: "Developed research proposals to assess vocational skills of Indian women and formulated data-driven CSR policies to improve community standards of living."
+
+social_links:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/raghavirajumohan/"
+    image: "images/LinkedIn_icon.svg.png"
+
+  - title: "GitHub"
+    url: "https://github.com/RaghaviRajumohan"
+    image: "images/Github_icon.png"
