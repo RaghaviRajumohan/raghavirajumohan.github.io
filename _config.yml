@@ -1,29 +1,70 @@
-title: "Raghavi Rajumohan | Data Scientist Portfolio"
-logo: "images/logo.png"  # Add your logo image here
+title: "Raghavi Rajumohan"
+logo: "images/logo.png"  # Your logo image here
 description: "I love uncovering insights from data and turning those stories into actionable insights."
 
-experiences:
-  - date: "Jul 2024 - Present"
-    title: "Data Metrics Analyst Intern - University of California, Office of the President"
-    description: "Developing a SQL-automated Tableau dashboard to monitor tax forms and paycheck issuance. Applied ARIMA models for time series forecasting to optimize employee allocation."
+# Experience Section in HTML Format
+experiences: > 
+  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;">
+    
+    <!-- Experience 1 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
+        Jul 2024 - Present
+      </div>
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
+        <h3>Data Metrics Analyst Intern - University of California, Office of the President</h3>
+        <p>Developing a SQL-automated Tableau dashboard to monitor tax forms and paycheck issuance. Applied ARIMA models for time series forecasting to optimize employee allocation.</p>
+      </div>
+    </div>
 
-  - date: "Jan 2024 - May 2024"
-    title: "Data Analyst and Project Mentor - UCLA Alumni Affairs"
-    description: "Led efforts to optimize alumni outreach using SEO, A/B testing, and machine learning models. Increased engagement by 33% through data-driven techniques."
+    <!-- Experience 2 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
+        Jan 2024 - May 2024
+      </div>
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
+        <h3>Data Analyst and Project Mentor - UCLA Alumni Affairs</h3>
+        <p>Led efforts to optimize alumni outreach using SEO, A/B testing, and machine learning models. Increased engagement by 33% through data-driven techniques.</p>
+      </div>
+    </div>
 
-  - date: "Sep 2020 - Jul 2023"
-    title: "Data Analysis General Manager - WageIndicator Foundation Research Lab"
-    description: "Led a team of 200+ interns and managed ETL processes for salary guides across 6+ countries. Improved data collection accuracy by 15% through streamlined processes."
+    <!-- Experience 3 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
+        Sep 2020 - Jul 2023
+      </div>
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
+        <h3>Data Analysis General Manager - WageIndicator Foundation Research Lab</h3>
+        <p>Led a team of 200+ interns and managed ETL processes for salary guides across 6+ countries. Improved data collection accuracy by 15% through streamlined processes.</p>
+      </div>
+    </div>
 
-  - date: "May 2021 - Jul 2022"
-    title: "Business Development Intern - TATA Electronics Pvt. Ltd."
-    description: "Developed research proposals to assess vocational skills of Indian women and formulated data-driven CSR policies to improve community standards of living."
+    <!-- Experience 4 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
+        May 2021 - Jul 2022
+      </div>
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
+        <h3>Business Development Intern - TATA Electronics Pvt. Ltd.</h3>
+        <p>Developed research proposals to assess vocational skills of Indian women and formulated data-driven CSR policies to improve community standards of living.</p>
+      </div>
+    </div>
 
-social_links:
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/raghavirajumohan/"
-    image: "images/LinkedIn_icon.svg.png"
+  </div>
 
-  - title: "GitHub"
-    url: "https://github.com/RaghaviRajumohan"
-    image: "images/Github_icon.png"
+# Social Links Section
+social_links: > 
+  <a href="https://www.linkedin.com/in/raghavirajumohan/" target="_blank" style="color:#6a0dad;">
+    <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
+    View My LinkedIn
+  </a>
+  <br><br>
+  <a href="https://github.com/RaghaviRajumohan" target="_blank" style="color:#6a0dad;">
+    <img src="images/Github_icon.png" alt="GitHub" style="width:50px;height:40px;margin-right:5px;">
+    Visit My GitHub
+  </a>
+
+# Theme settings
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
