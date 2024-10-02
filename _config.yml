@@ -1,0 +1,27 @@
+# _config.yml
+title: Raghavi Rajumohan
+theme: jekyll-theme-minimal
+
+description: > 
+  I love uncovering insights from data and turning those stories into actionable insights.
+
+# Timeline
+experiences:
+  - date: "Sep 2024 - Present"
+    title: "Founder & Mentor"
+    company: "Data Gals Initiative"
+  - date: "Jun 2024 - Present"
+    title: "Data Science Intern, Real Estate Practice"
+    company: "ABGi USA"
+  - date: "Jan 2024 - Mar 2024"
+    title: "Quantitative Analyst"
+    company: "Optimas Capital"
+  - date: "Aug 2023 - Sep 2023"
+    title: "Data Analyst"
+    company: "Equity Methods LLC"
+
+social_links:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/raghavi-rajumohan/"
+  - title: "GitHub"
+    url: "https://github.com/RaghaviRajumohan"
