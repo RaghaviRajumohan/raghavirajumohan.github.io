@@ -6,12 +6,37 @@ description: >
 
   <!-- Experiences Section -->
   <strong>Experiences:</strong>
-  <ul style="list-style-type: disc; padding-left: 20px; max-width: 800px; margin: 0 auto;">
-    <li><strong>Jul 2024 - Present</strong> Data Metrics Analyst Intern - University of California, Office of the President</li>
-    <li><strong>Jan 2024 - May 2024</strong> Data Analyst and Project Mentor - UCLA Alumni Affairs</li>
-    <li><strong>Sep 2020 - Jul 2023</strong> Data Analysis General Manager - WageIndicator Foundation Research Lab</li>
-    <li><strong>May 2021 - Jul 2022</strong> Business Development Intern - TATA Electronics Pvt. Ltd.</li>
-  </ul>
+  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;">
+  
+    <!-- Experience 1 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.9em;">Jul 2024 - Present</div>
+      <div style="font-weight: bold;">Data Metrics Analyst Intern</div>
+      <div>University of California, Office of the President</div>
+    </div>
+  
+    <!-- Experience 2 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.9em;">Jan 2024 - May 2024</div>
+      <div style="font-weight: bold;">Data Analyst and Project Mentor</div>
+      <div>UCLA Alumni Affairs</div>
+    </div>
+  
+    <!-- Experience 3 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.9em;">Sep 2020 - Jul 2023</div>
+      <div style="font-weight: bold;">Data Analysis General Manager</div>
+      <div>WageIndicator Foundation Research Lab</div>
+    </div>
+  
+    <!-- Experience 4 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.9em;">May 2021 - Jul 2022</div>
+      <div style="font-weight: bold;">Business Development Intern</div>
+      <div>TATA Electronics Pvt. Ltd.</div>
+    </div>
+  
+  </div>
   <br><br>
 
   <!-- Social Links Section -->
