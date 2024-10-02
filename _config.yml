@@ -1,63 +1,20 @@
-# Title and Description
-title: "Raghavi Rajumohan"
+title: "Raghavi Rajumohan | Data Scientist Portfolio"
+logo: "images/logo.png"  # Add your logo image here
 description: "I love uncovering insights from data and turning those stories into actionable insights."
 
-# Timeline Experiences
-experiences: > 
-  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;">
-    <!-- Experience 1 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Jul 2024 - Current
-      </div>
-      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Data Metrics Analyst Intern - University of California, Office of the President</h3>
-        <p>Developed a SQL-automated Tableau dashboard to monitor tax forms and paycheck issuance, applying ARIMA models for time series forecasting to optimize employee allocation.</p>
-      </div>
-    </div>
+experiences:
+  - date: "Sep 2024 - Present"
+    title: "Founder & Mentor - Data Gals Initiative"
+    description: "Leading a community of women in data science, fostering growth and mentoring aspiring data scientists."
 
-    <!-- Experience 2 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Jan 2024 - May 2024
-      </div>
-      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Data Analyst and Project Mentor - UCLA Alumni Affairs</h3>
-        <p>Optimized alumni outreach using SEO, A/B testing, and machine learning models to increase engagement by 33%.</p>
-      </div>
-    </div>
+  - date: "Jun 2024 - Present"
+    title: "Data Science Intern - Real Estate Practice, ABGi USA"
+    description: "Conducting market analysis using data-driven techniques to identify trends in real estate investments."
 
-    <!-- Experience 3 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Sep 2020 - Jul 2023
-      </div>
-      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Data Analysis General Manager - WageIndicator Foundation Research Lab</h3>
-        <p>Led a team of 200+ interns, managing ETL processes for salary guides across 6+ countries and improved data collection accuracy by 15%.</p>
-      </div>
-    </div>
+  - date: "Jan 2024 - Mar 2024"
+    title: "Quantitative Analyst - Optimas Capital"
+    description: "Analyzed financial datasets and developed models to assist in high-stakes financial decision-making."
 
-    <!-- Experience 4 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        May 2021 - Jul 2022
-      </div>
-      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Business Development Intern - TATA Electronics Pvt. Ltd</h3>
-        <p>Developed research proposals to assess the vocational skills of Indian women and formulated data-driven CSR policies to improve community standards of living.</p>
-      </div>
-    </div>
-  </div>
-
-# Social Links
-social_links: > 
-  <a href="https://www.linkedin.com/in/raghavirajumohan/" target="_blank" style="color:#6a0dad;">
-    <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
-    View My LinkedIn
-  </a>
-  <br><br>
-  <a href="https://github.com/RaghaviRajumohan" target="_blank" style="color:#6a0dad;">
-    <img src="images/Github_icon.png" alt="GitHub" style="width:50px;height:40px;margin-right:5px;">
-    Visit My GitHub
-  </a>
+  - date: "Aug 2023 - Sep 2023"
+    title: "Data Analyst - Equity Methods LLC"
+    description: "Worked with equity valuation models, providing actionable insights on company performance metrics."
