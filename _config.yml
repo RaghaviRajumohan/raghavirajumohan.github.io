@@ -3,38 +3,39 @@ logo: "/images/logo.png?raw=true"  # Your photo (or logo) here
 description: >
   I love uncovering insights from data and turning those stories into actionable insights.
   <br><br>
+
   <!-- Experiences Section -->
-  <strong style="font-size: 1.2em;">Experiences:</strong>
-  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 5px 0;">
-  
+  <strong style="font-size: 1em; display: block; margin-bottom: 5px; margin-top: 0;">Experiences:</strong>
+  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 0;">
+
     <!-- Experience 1 -->
-    <div style="padding: 8px 0; position: relative;">
+    <div style="padding: 5px 0; position: relative;">
       <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jul 2024 - Present</div>
       <div style="font-weight: bold; font-size: 1.1em;">Data Metrics Analyst Intern</div>
       <div style="font-size: 0.9em;">University of California, Office of the President</div>
     </div>
   
     <!-- Experience 2 -->
-    <div style="padding: 8px 0; position: relative;">
+    <div style="padding: 5px 0; position: relative;">
       <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jan 2024 - May 2024</div>
       <div style="font-weight: bold; font-size: 1.1em;">Data Analyst and Project Mentor</div>
       <div style="font-size: 0.9em;">UCLA Alumni Affairs</div>
     </div>
   
     <!-- Experience 3 -->
-    <div style="padding: 8px 0; position: relative;">
+    <div style="padding: 5px 0; position: relative;">
       <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Sep 2020 - Jul 2023</div>
       <div style="font-weight: bold; font-size: 1.1em;">Data Analysis General Manager</div>
       <div style="font-size: 0.9em;">WageIndicator Foundation Research Lab</div>
     </div>
   
     <!-- Experience 4 -->
-    <div style="padding: 8px 0; position: relative;">
+    <div style="padding: 5px 0; position: relative;">
       <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">May 2021 - Jul 2022</div>
       <div style="font-weight: bold; font-size: 1.1em;">Business Development Intern</div>
       <div style="font-size: 0.9em;">TATA Electronics Pvt. Ltd.</div>
     </div>
-  
+
   </div>
   <br><br>
 
