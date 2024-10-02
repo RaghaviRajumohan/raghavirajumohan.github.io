@@ -1,37 +1,39 @@
 title: "Raghavi Rajumohan"
+logo: "/images/logo.png?raw=true"  # Your photo (or logo) here
 description: >
   I love uncovering insights from data and turning those stories into actionable insights.
+  <br><br>
 
   <!-- Experiences Section -->
-  <strong>Experiences:</strong>
+  <strong style="font-size: 1.2em;">Experiences:</strong>
   <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;">
   
     <!-- Experience 1 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.9em;">Jul 2024 - Present</div>
-      <div style="font-weight: bold;">Data Metrics Analyst Intern</div>
-      <div>University of California, Office of the President</div>
+    <div style="padding: 8px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jul 2024 - Present</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Data Metrics Analyst Intern</div>
+      <div style="font-size: 0.9em;">University of California, Office of the President</div>
     </div>
   
     <!-- Experience 2 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.9em;">Jan 2024 - May 2024</div>
-      <div style="font-weight: bold;">Data Analyst and Project Mentor</div>
-      <div>UCLA Alumni Affairs</div>
+    <div style="padding: 8px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jan 2024 - May 2024</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Data Analyst and Project Mentor</div>
+      <div style="font-size: 0.9em;">UCLA Alumni Affairs</div>
     </div>
   
     <!-- Experience 3 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.9em;">Sep 2020 - Jul 2023</div>
-      <div style="font-weight: bold;">Data Analysis General Manager</div>
-      <div>WageIndicator Foundation Research Lab</div>
+    <div style="padding: 8px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Sep 2020 - Jul 2023</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Data Analysis General Manager</div>
+      <div style="font-size: 0.9em;">WageIndicator Foundation Research Lab</div>
     </div>
   
     <!-- Experience 4 -->
-    <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.9em;">May 2021 - Jul 2022</div>
-      <div style="font-weight: bold;">Business Development Intern</div>
-      <div>TATA Electronics Pvt. Ltd.</div>
+    <div style="padding: 8px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">May 2021 - Jul 2022</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Business Development Intern</div>
+      <div style="font-size: 0.9em;">TATA Electronics Pvt. Ltd.</div>
     </div>
   
   </div>
@@ -42,13 +44,13 @@ description: >
   <ul style="list-style-type: none; padding-left: 0;">
     <li>
       <a href="https://www.linkedin.com/in/raghavirajumohan/" style="color:#6a0dad;">
-        <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
+        <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:30px;height:30px;margin-right:5px;">
         LinkedIn
       </a>
     </li>
     <li>
       <a href="https://github.com/RaghaviRajumohan" style="color:#6a0dad;">
-        <img src="images/Github_icon.png" alt="GitHub" style="width:50px;height:40px;margin-right:5px;">
+        <img src="images/Github_icon.png" alt="GitHub" style="width:30px;height:30px;margin-right:5px;">
         GitHub
       </a>
     </li>
