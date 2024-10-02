@@ -1,87 +1,94 @@
 ---
 layout: default
-title: "Raghavi Rajumohan"
 ---
 
-<div class="left-column">
-  <h1>{{ site.title }}</h1>
-  <p>{{ site.description }}</p>
+<div class="container">
+  <!-- Left Column (Fixed - Experiences & Social Links) -->
+  <div class="left-column">
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+    
+    <h2>Experiences</h2>
+    <ul>
+      {% for experience in site.experiences %}
+        <li>
+          <strong>{{ experience.date }}</strong> <br>
+          <strong>{{ experience.title }}</strong> <br>
+          <p>{{ experience.description }}</p>
+        </li>
+      {% endfor %}
+    </ul>
 
-  <h2>Experiences</h2>
-  <ul class="timeline">
-    {% for experience in site.experiences %}
-      <li>
-        <span>{{ experience.date }}</span> 
-        <strong>{{ experience.title }}</strong> - {{ experience.company }}
-      </li>
-    {% endfor %}
-  </ul>
+    <h2>Connect with Me</h2>
+    <ul>
+      {% for link in site.social_links %}
+        <li>
+          <a href="{{ link.url }}">
+            <img src="{{ link.image }}" alt="{{ link.title }}" style="width:50px;height:40px;margin-right:5px;">
+            {{ link.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 
-  <h2>Connect with Me</h2>
-  <ul>
-    {% for link in site.social_links %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <!-- Right Column (Scrollable - Projects) -->
+  <div class="right-column">
+    <!-- Example Project Content -->
+    <h2>Data Science, Machine Learning, NLP Projects</h2>
+    
+    <h3>Marketing Analysis - A/B Testing Project</h3>
+    <p>
+      Conducted a detailed marketing analysis using A/B testing to measure the effectiveness 
+      of different marketing strategies. Provided actionable insights to optimize campaign performance. 
+      The results revealed a significant 15% increase in conversion rates for the optimized strategy.
+    </p>
+    <p><a href="https://github.com/RaghaviRajumohan">View project on GitHub</a></p>
+    
+    <!-- Add more projects as needed -->
+  </div>
 </div>
 
 <style>
-/* Left Column Styling */
-.left-column {
-  width: 30%;
+/* Container for two columns */
+.container {
+  display: flex;
+  justify-content: space-between;
   padding: 20px;
-  float: left;
-  font-family: Arial, sans-serif;
+}
+
+/* Left Column - Experiences & Social Links (Fixed) */
+.left-column {
+  width: 35%;
+  padding: 20px;
+  position: fixed;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+/* Right Column - Projects (Scrollable) */
+.right-column {
+  width: 60%;
+  margin-left: 40%;  /* Adjust based on the width of the left column */
+  padding: 20px;
+  overflow-y: auto;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+.right-column h2, .left-column h2 {
   color: #333;
 }
 
-/* Add styling for the timeline */
-ul.timeline {
-  list-style-type: none;
-  position: relative;
-  padding-left: 20px;
-}
-
-ul.timeline:before {
-  content: '';
-  background: #d4d9df;
-  display: inline-block;
-  position: absolute;
-  left: 20px;
-  width: 2px;
-  height: 100%;
-  z-index: 400;
-}
-
-ul.timeline > li {
-  margin: 20px 0;
-  padding-left: 40px;
-  text-align: left;
-}
-
-ul.timeline > li:before {
-  content: '';
-  background: #6e8cd4;
-  display: inline-block;
-  position: absolute;
-  border-radius: 50%;
-  left: 15px;
-  width: 12px;
-  height: 12px;
-  z-index: 400;
-}
-
-ul.timeline > li span {
-  font-weight: bold;
-  color: #6e8cd4;
-}
-
-.left-column h1, .left-column h2 {
-  font-weight: bold;
-}
-
-.left-column a {
-  color: #6e8cd4;
+.right-column a, .left-column a {
+  color: #6a0dad;
   text-decoration: none;
 }
 </style>
