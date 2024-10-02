@@ -3,10 +3,9 @@ logo: "/images/logo.png?raw=true"  # Your photo (or logo) here
 description: >
   I love uncovering insights from data and turning those stories into actionable insights.
   <br><br>
-
   <!-- Experiences Section -->
   <strong style="font-size: 1.2em;">Experiences:</strong>
-  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;">
+  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 5px 0;">
   
     <!-- Experience 1 -->
     <div style="padding: 8px 0; position: relative;">
