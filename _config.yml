@@ -8,47 +8,51 @@ experiences: >
     <!-- Experience 1 -->
     <div style="padding: 10px 0; position: relative;">
       <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Sep 2024 - Present
+        Jul 2024 - Current
       </div>
       <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Founder & Mentor - Data Gals Initiative</h3>
+        <h3>Data Metrics Analyst Intern - University of California, Office of the President</h3>
+        <p>Developed a SQL-automated Tableau dashboard to monitor tax forms and paycheck issuance, applying ARIMA models for time series forecasting to optimize employee allocation.</p>
       </div>
     </div>
 
     <!-- Experience 2 -->
     <div style="padding: 10px 0; position: relative;">
       <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Jun 2024 - Present
+        Jan 2024 - May 2024
       </div>
       <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Data Science Intern, Real Estate Practice - ABGi USA</h3>
+        <h3>Data Analyst and Project Mentor - UCLA Alumni Affairs</h3>
+        <p>Optimized alumni outreach using SEO, A/B testing, and machine learning models to increase engagement by 33%.</p>
       </div>
     </div>
 
     <!-- Experience 3 -->
     <div style="padding: 10px 0; position: relative;">
       <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Jan 2024 - Mar 2024
+        Sep 2020 - Jul 2023
       </div>
       <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Quantitative Analyst - Optimas Capital</h3>
+        <h3>Data Analysis General Manager - WageIndicator Foundation Research Lab</h3>
+        <p>Led a team of 200+ interns, managing ETL processes for salary guides across 6+ countries and improved data collection accuracy by 15%.</p>
       </div>
     </div>
 
     <!-- Experience 4 -->
     <div style="padding: 10px 0; position: relative;">
       <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;">
-        Aug 2023 - Sep 2023
+        May 2021 - Jul 2022
       </div>
       <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;">
-        <h3>Data Analyst - Equity Methods LLC</h3>
+        <h3>Business Development Intern - TATA Electronics Pvt. Ltd</h3>
+        <p>Developed research proposals to assess the vocational skills of Indian women and formulated data-driven CSR policies to improve community standards of living.</p>
       </div>
     </div>
   </div>
 
 # Social Links
 social_links: > 
-  <a href="https://www.linkedin.com/in/raghavi-rajumohan/" target="_blank" style="color:#6a0dad;">
+  <a href="https://www.linkedin.com/in/raghavirajumohan/" target="_blank" style="color:#6a0dad;">
     <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
     View My LinkedIn
   </a>
