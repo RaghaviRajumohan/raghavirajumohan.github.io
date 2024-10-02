@@ -1,5 +1,4 @@
 title: "Raghavi Rajumohan"
-logo: "/images/logo.png?raw=true"  # Your photo (or logo) here
 description: >
   I love uncovering insights from data and turning those stories into actionable insights.
   <br><br>
@@ -46,12 +45,6 @@ description: >
       <a href="https://www.linkedin.com/in/raghavirajumohan/" style="color:#6a0dad;">
         <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:30px;height:30px;margin-right:5px;">
         LinkedIn
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/RaghaviRajumohan" style="color:#6a0dad;">
-        <img src="images/Github_icon.png" alt="GitHub" style="width:30px;height:30px;margin-right:5px;">
-        GitHub
       </a>
     </li>
   </ul>
