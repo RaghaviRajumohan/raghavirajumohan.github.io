@@ -29,3 +29,24 @@ This project involved developing a data-driven approach to predict incoming exam
 
 <hr> 
 
+### WageIndicator
+
+
+### Predictive Analysis
+
+
+### UCPath
+
+
+### Cloud Computing 
+
+
+# Research Papers 
+
+### Migration 
+
+### Financial Stability 
+
+
+
+
