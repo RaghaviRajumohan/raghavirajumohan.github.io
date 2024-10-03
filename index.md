@@ -1,5 +1,5 @@
 # Data Science and Analytics Projects
-
+<hr> 
 #### Technical Skills: Tableau, Python, SQL, Salesforce 
 
 ### Fargo Health, Data Analytical Case Study
@@ -15,16 +15,17 @@ This project involved developing a data-driven approach to predict incoming exam
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 30%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> Incoming Interpolate Time Series with Moving Average</p>
-    <img src="images/incoming-interpolate-time-series.png" alt="Incoming Interpolate Time Series" style="width: 100%; height: auto;"/>
+    <img src="images/Moving Average - Fargo Health.png" alt="Incoming Interpolate Time Series" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
     <p><strong>Figure 2:</strong> Seasonal Plot</p>
-    <img src="images/seasonal-plot.png" alt="Seasonal Plot" style="width: 100%; height: auto;"/>
+    <img src="images/Monthly Trend Analysis.png" alt="Seasonal Plot" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px;">
     <p><strong>Figure 3:</strong> Prediction Results Using ARIMA</p>
-    <img src="images/arima-prediction.png" alt="Prediction Results" style="width: 100%; height: auto;"/>
+    <img src="images/Year forecast.png" alt="Prediction Results" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
+<hr> 
 
