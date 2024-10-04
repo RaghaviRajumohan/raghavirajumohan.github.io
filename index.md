@@ -11,7 +11,7 @@ This project involved developing a data-driven approach to predict incoming exam
 ![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-lightgrey?style=flat-square)
 ![R](https://img.shields.io/badge/R-lightgrey?style=flat-square&logo=R)
 
-<a href="https://github.com/your-github-link" style="color:#6a0dad;">View project on GitHub</a>
+<a href="https://github.com/RaghaviRajumohan/Business-Analysis-Report/tree/main" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 30%; padding-right: 10px;">
