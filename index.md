@@ -22,6 +22,6 @@ This project involved developing a data-driven approach to predict incoming exam
   </div>
   <div style="width: 30%; padding-left: 10px;">
     <p><strong>Figure 3:</strong> Prediction Results Using ARIMA</p>
-    <img src="Year forecast.png" alt="Prediction Results" style="width: 100%; height: auto;"/>
+    <img src="images/Year forecast.png" alt="Prediction Results" style="width: 100%; height: auto;"/>
   </div>
 </div>
