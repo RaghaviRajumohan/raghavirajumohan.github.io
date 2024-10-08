@@ -27,3 +27,17 @@ This project involved developing a data-driven approach to predict incoming exam
     <img src="images/yearlyseasonality.png" alt="Prediction Results" style="width: 100%; height: auto;"/>
   </div>
 </div>
+
+### House Price Prediction Model, OLS Multiple Regression
+
+This project involved developing a predictive model for house prices using Ordinary Least Squares (OLS) multiple regression. By analyzing key factors such as location, square footage, and market trends, I aimed to create an accurate model capable of predicting house prices. I explored the dataset extensively, ensuring data cleanliness and applying feature engineering techniques to select the most impactful variables. To ensure the model's robustness and reliability, I evaluated it using statistical tests such as R-squared and adjusted R-squared.
+
+This project involved developing a predictive model for house prices using Ordinary Least Squares (OLS) multiple regression. Key factors such as location, square footage, and market trends were analyzed. The dataset was thoroughly preprocessed to address missing values, outliers, and multicollinearity, with feature engineering applied to select the most impactful variables.
+
+Multiple models were built, including polynomial regression, ridge and lasso regression, and tree-based methods such as decision trees and random forests. These models were tested and compared using performance metrics like R-squared, adjusted R-squared, and Mean Squared Error (MSE). Cross-validation was employed to evaluate model generalizability, and the most optimal model was selected based on performance and prediction accuracy.
+
+
+
+
+
+
