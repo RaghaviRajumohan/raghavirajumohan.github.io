@@ -38,7 +38,7 @@ This project involved developing a predictive model for house prices using mulit
 ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python)
 ![OLS Regression](https://img.shields.io/badge/OLS_Regression-lightgrey?style=flat-square)
 
-<a href="https://github.com/RaghaviRajumohan/House-Price-Prediction" style="color:#6a0dad;">View project on GitHub</a>
+<a href="https://github.com/RaghaviRajumohan/Regression-Models-" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 30%; padding-right: 10px;">
