@@ -28,6 +28,8 @@ This project involved developing a data-driven approach to predict incoming exam
   </div>
 </div>
 
+<hr>
+
 ### House Price Prediction Model, Predictive Regression Models
 
 This project involved developing a predictive model for house prices using mulitple regression. After cleaning and preprocessing the data, key features were selected through correlation analysis and the Boruta Algorithm. I developed OLS, logit and polynomial multiple regression models, selecting the best one based on R-squared, MSE, and cross-validation results. Visualization techniques helped uncover trends and insights in the model’s predictions. This project highlights my ability to handle the entire regression modeling process, from feature selection to model evaluation, delivering meaningful insights for real estate pricing.
@@ -55,6 +57,7 @@ This project involved developing a predictive model for house prices using mulit
   </div>
 </div>
 
+<hr>
 ### Tableau Dashboard for Payroll Operations
 
 This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s `statsmodels` library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
