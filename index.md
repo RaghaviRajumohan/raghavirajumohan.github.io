@@ -55,6 +55,24 @@ This project involved developing a predictive model for house prices using mulit
   </div>
 </div>
 
+### Tableau Dashboard for Payroll Operations
+
+This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s `statsmodels` library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
+
+![SQL Automation](https://img.shields.io/badge/SQL_Automation-lightgrey?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat-square&logo=tableau)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-lightgrey?style=flat-square)
+
+<a href="https://github.com/RaghaviRajumohan/Tableau-Dashboard-Project" style="color:#6a0dad;">View project on GitHub</a>
+
+<div style="max-width: 800px; margin: 0 auto;">
+  <h3>Tableau Demo</h3>
+  <video width="800" height="450" controls>
+    <source src="images/Tableau Demo.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 
 
