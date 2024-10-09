@@ -50,8 +50,8 @@ This project involved developing a predictive model for house prices using mulit
     <img src="images/Correlation_Plot.png" alt="Correlation Between Features" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px;">
-    <p><strong>Figure 3:</strong> Regression Residuals Plot</p>
-    <img src="images/Residuals_Plot.png" alt="Regression Residuals Plot" style="width: 100%; height: auto;"/>
+    <p><strong>Figure 3:</strong> Observed and Residuals VS Predicted Values</p>
+    <img src="images/PredictedValues.png" alt="Regression Residuals Plot" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
