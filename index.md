@@ -42,12 +42,12 @@ This project involved developing a predictive model for house prices using mulit
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 30%; padding-right: 10px;">
-    <p><strong>Figure 1:</strong> Distribution of Housing Prices</p>
-    <img src="images/Housing_Price_Distribution.png" alt="Distribution of Housing Prices" style="width: 100%; height: auto;"/>
+    <p><strong>Figure 1:</strong> Feature Selection for Predictive Variables</p>
+    <img src="images/featureselection.png" alt="Distribution of Housing Prices" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
-    <p><strong>Figure 2:</strong> Correlation Between Features</p>
-    <img src="images/Correlation_Plot.png" alt="Correlation Between Features" style="width: 100%; height: auto;"/>
+    <p><strong>Figure 2:</strong> Bootstrap Estimates for Model Stability</p>
+    <img src="images/Bootstrap.png" alt="Correlation Between Features" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px;">
     <p><strong>Figure 3:</strong> Observed and Residuals VS Predicted Values</p>
