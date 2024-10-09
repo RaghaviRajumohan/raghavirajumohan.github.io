@@ -58,7 +58,8 @@ This project involved developing a predictive model for house prices using mulit
 </div>
 
 <hr>
-### Tableau Dashboard for Payroll Operations
+
+### Tableau Dashboard for Payroll Operations, University of California
 
 This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s `statsmodels` library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
 
