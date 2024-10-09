@@ -65,9 +65,9 @@ This project involved developing an automated, real-time Tableau dashboard that 
 
 <a href="https://github.com/RaghaviRajumohan/Tableau-Dashboard-Project" style="color:#6a0dad;">View project on GitHub</a>
 
-<div style="max-width: 800px; margin: 0 auto;">
+<div style="width: 100%; float: left;">
   <h3>Tableau Demo</h3>
-  <video width="800" height="450" controls>
+  <video width="400" height="250" controls>
     <source src="images/Tableau Demo.mov" type="video/mp4">
     Your browser does not support the video tag.
   </video>
