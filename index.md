@@ -28,14 +28,32 @@ This project involved developing a data-driven approach to predict incoming exam
   </div>
 </div>
 
-### House Price Prediction Model, OLS Multiple Regression
+### House Price Prediction Model, Predictive Regression Models
 
-This project involved developing a predictive model for house prices using Ordinary Least Squares (OLS) multiple regression. By analyzing key factors such as location, square footage, and market trends, I aimed to create an accurate model capable of predicting house prices. I explored the dataset extensively, ensuring data cleanliness and applying feature engineering techniques to select the most impactful variables. To ensure the model's robustness and reliability, I evaluated it using statistical tests such as R-squared and adjusted R-squared.
+This project involved developing a predictive model for house prices using mulitple regression. After cleaning and preprocessing the data, key features were selected through correlation analysis and the Boruta Algorithm. I developed OLS, logit and polynomial multiple regression models, selecting the best one based on R-squared, MSE, and cross-validation results. Visualization techniques helped uncover trends and insights in the model’s predictions. This project highlights my ability to handle the entire regression modeling process, from feature selection to model evaluation, delivering meaningful insights for real estate pricing.
 
-This project involved developing a predictive model for house prices using Ordinary Least Squares (OLS) multiple regression. Key factors such as location, square footage, and market trends were analyzed. The dataset was thoroughly preprocessed to address missing values, outliers, and multicollinearity, with feature engineering applied to select the most impactful variables.
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-lightgrey?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-lightgrey?style=flat-square)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-lightgrey?style=flat-square)
+![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python)
+![OLS Regression](https://img.shields.io/badge/OLS_Regression-lightgrey?style=flat-square)
 
-Multiple models were built, including polynomial regression, ridge and lasso regression, and tree-based methods such as decision trees and random forests. These models were tested and compared using performance metrics like R-squared, adjusted R-squared, and Mean Squared Error (MSE). Cross-validation was employed to evaluate model generalizability, and the most optimal model was selected based on performance and prediction accuracy.
+<a href="https://github.com/RaghaviRajumohan/House-Price-Prediction" style="color:#6a0dad;">View project on GitHub</a>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 30%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> Distribution of Housing Prices</p>
+    <img src="images/Housing_Price_Distribution.png" alt="Distribution of Housing Prices" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
+    <p><strong>Figure 2:</strong> Correlation Between Features</p>
+    <img src="images/Correlation_Plot.png" alt="Correlation Between Features" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px;">
+    <p><strong>Figure 3:</strong> Regression Residuals Plot</p>
+    <img src="images/Residuals_Plot.png" alt="Regression Residuals Plot" style="width: 100%; height: auto;"/>
+  </div>
+</div>
 
 
 
