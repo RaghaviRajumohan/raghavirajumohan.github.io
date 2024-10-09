@@ -1,4 +1,4 @@
-## Data Science, Machine Learning, NLP Projects 
+## Data Science, Machine Learning Projects 
 
 <hr> <!-- This adds the line below the title -->
 
@@ -50,8 +50,8 @@ This project involved developing a predictive model for house prices using mulit
     <img src="images/Bootstrap.png" alt="Correlation Between Features" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px;">
-    <p><strong>Figure 3:</strong> Observed and Residuals VS Predicted Values</p>
-    <img src="images/PredictedValues.png" alt="Regression Residuals Plot" style="width: 100%; height: auto;"/>
+    <p><strong>Figure 3:</strong> QQ Plot of Residuals</p>
+    <img src="images/residual plot.png" alt="Regression Residuals Plot" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
