@@ -47,7 +47,7 @@ This project involved developing a predictive model for house prices using mulit
   </div>
   <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
     <p><strong>Figure 2:</strong> Bootstrap Estimates for Model Stability</p>
-    <img src="images/Bootstrap.png" alt="Correlation Between Features" style="width: 100%; height: auto;"/>
+    <img src="images/bootstrap.png" alt="Correlation Between Features" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px;">
     <p><strong>Figure 3:</strong> QQ Plot of Residuals</p>
