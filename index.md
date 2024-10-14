@@ -67,7 +67,6 @@ This project involved developing an automated, real-time Tableau dashboard that 
 ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat-square&logo=tableau)
 ![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-lightgrey?style=flat-square)
 
-<a href="https://github.com/RaghaviRajumohan/Tableau-Dashboard-Project" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="width: 100%; float: left;">
   <h3>Tableau Demo</h3>
