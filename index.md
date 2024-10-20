@@ -1,7 +1,22 @@
 ## Data Science, Machine Learning Projects 
 
 <hr> <!-- This adds the line below the title -->
+### Tableau Dashboard for Payroll Operations, University of California
 
+This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s `statsmodels` library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
+
+![SQL Automation](https://img.shields.io/badge/SQL_Automation-lightgrey?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat-square&logo=tableau)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-lightgrey?style=flat-square)
+
+
+<div style="width: 100%; float: left;">
+  <h3>Tableau Demo</h3>
+  <video width="500" height="350" controls>
+    <source src="images/Tableau Demo.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 ### Fargo Health, Data Analytical Case Study
 
 This project involved developing a data-driven approach to predict incoming examination demand at Fargo Health’s healthcare centers. Due to a shortage of examining physicians, the company had to outsource patients to Outpatient Clinics (OCs), incurring significant costs. By leveraging time series analysis and ARIMA modeling, I provided actionable insights for reallocation of physicians and optimized scheduling to meet demand more effectively.
@@ -59,22 +74,6 @@ This project involved developing a predictive model for house prices using mulit
 
 <hr>
 
-### Tableau Dashboard for Payroll Operations, University of California
-
-This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s `statsmodels` library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
-
-![SQL Automation](https://img.shields.io/badge/SQL_Automation-lightgrey?style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat-square&logo=tableau)
-![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-lightgrey?style=flat-square)
-
-
-<div style="width: 100%; float: left;">
-  <h3>Tableau Demo</h3>
-  <video width="500" height="350" controls>
-    <source src="images/Tableau Demo.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
 
 
