@@ -1,4 +1,4 @@
-## Data Science, Machine Learning Projects 
+## Projects 
 
 <hr> <!-- This adds the line below the title -->
 ### Tableau Dashboard for Payroll Operations, University of California
