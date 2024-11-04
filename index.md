@@ -19,7 +19,6 @@ This project involved developing an automated, real-time Tableau dashboard that 
 </div>
 
 <hr>
-
 ### Fargo Health, Data Analytical Case Study
 
 This project involved developing a data-driven approach to predict incoming examination demand at Fargo Health’s healthcare centers. Due to a shortage of examining physicians, the company had to outsource patients to Outpatient Clinics (OCs), incurring significant costs. By leveraging time series analysis and ARIMA modeling, I provided actionable insights for reallocation of physicians and optimized scheduling to meet demand more effectively.
