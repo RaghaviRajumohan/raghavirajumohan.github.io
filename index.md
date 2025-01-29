@@ -22,7 +22,7 @@ I developed a real-time, automated Tableau dashboard to monitor tax form issuanc
 <div style="text-align: center; margin-top: 20px;">
   <h4>Tableau Demo</h4>
   <video width="500" height="350" controls>
-    <source src="assets/Tableau_Demo.mov" type="video/mp4">
+    <source src="rhythmsofdata/assets/Tableau_Demo.mov" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -61,11 +61,11 @@ The data was analyzed using 20,000 records and the model incorporates interactio
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap; gap: 20px;">
   <div style="width: 45%; text-align: center;">
     <p><strong>Effect of Duration and Comments on Streams</strong></p>
-    <img src="assets/Effect_plot.png" alt="Effects Plot" style="width: 100%; height: auto;"/>
+    <img src="rhythmsofdata/assets/Effect_plot.png" alt="Effects Plot" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 45%; text-align: center;">
     <p><strong>Correlation Plot of Features</strong></p>
-    <img src="assets/Corr Plot.png" alt="Correlation Plot" style="width: 100%; height: auto;"/>
+    <img src="rhythmsofdata/assets/Corr Plot.png" alt="Correlation Plot" style="width: 100%; height: auto;"/>
   </div>
 </div>
 </div>
